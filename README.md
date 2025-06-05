@@ -1,4 +1,4 @@
-# Total Rental - Sistema de Locação de Plataformas Aéreas
+# Perform Rental - Sistema de Locação de Plataformas Aéreas
 
 Sistema completo para locação de plataformas aéreas desenvolvido com Next.js, React e TypeScript.
 
