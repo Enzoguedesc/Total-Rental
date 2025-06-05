@@ -1,4 +1,4 @@
-# Total Aéreas - Sistema de Locação de Plataformas Aéreas
+# Total Rental - Sistema de Locação de Plataformas Aéreas
 
 Sistema completo para locação de plataformas aéreas desenvolvido com Next.js, React e TypeScript.
 
@@ -31,3 +31,14 @@ Sistema completo para locação de plataformas aéreas desenvolvido com Next.js,
 ```bash
 git clone https://github.com/seu-usuario/total-rental.git
 cd total-rental
+```
+
+## Como rodar o codigo 
+```
+npm intall
+```
+```
+npm run dev
+```
+
+
